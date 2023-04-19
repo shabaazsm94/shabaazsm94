@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Oracle Primavera Products**
 
-- 🌱 I’m currently learning **J2EE,Spring,API**
+- 🌱 I’m currently learning **Web technology,API**
 
 - 💬 Ask me about **ahh not yet**
 
